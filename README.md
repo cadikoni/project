@@ -1,4 +1,4 @@
-# FoodSaver - Food Waste Reduction App
+# Preserve - Food Waste Reduction App
 
 A production-ready React Native mobile application built with Expo that helps users reduce food waste by tracking inventory, monitoring expiration dates, and sharing surplus food with the community.
 
@@ -71,4 +71,4 @@ Built with ❤️ using:
 
 ---
 
-**FoodSaver v1.0.0** - Reducing food waste, one meal at a time.
+**Preserve v1.0.0** - Reducing food waste, one meal at a time.
