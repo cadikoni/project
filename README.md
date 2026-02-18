@@ -1,6 +1,6 @@
 # Preserve - Food Waste Reduction App
 
-A production-ready React Native mobile application built with Expo that helps users reduce food waste by tracking inventory, monitoring expiration dates, and sharing surplus food with the community.
+A production-ready React Native mobile application built with Expo that helps users reduce food waste by tracking inventory, monitoring expiration dates, and sharing food with the community.
 
 ## Features
 
